@@ -1,0 +1,29 @@
+.webpage.header{
+    background-color:#00ffff;
+    text-align: center;
+    font-weight:700;
+    font-size: 60px;
+}
+
+.recipes{
+    background-color: olivedrab;
+    font-size: 36px;
+}
+
+.sub.header{
+    background-color: #da70d6;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+div{
+    background-color:fuchsia;
+}
+
+ul,
+ol{
+    background-color: #6b8e23;
+}
